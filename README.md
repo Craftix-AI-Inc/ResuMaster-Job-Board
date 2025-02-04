@@ -17,9 +17,9 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 > - ✨ New Apply Options! - gray button is standard posting, blue is Simplify's one-click application.
 ---
 <div align="center">
-	<h3>😮‍💨 Tired of checking every day for new Jobs? 😩</h3>
+	<h3>😮‍💨 Tired of Struggling with Low Interview and Offer Rates? 😩</h3>
 	<p>
-			Check out ⬇️ <strong>SWE List</strong> ⬇️ that sends you email updates for this repo 
+			✨ Check out ⬇️ This App ⬇️ and Boost Your Interview Rate by 300% ✨ 
 			<br>
 			<div>
 			<a href="https://resumaster.ai/?utm_source=GHList&utm_medium=banner">
@@ -35,9 +35,9 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <div align="center">
 	<p>
 		<a href="https://simplify.jobs/?utm_source=GHList&utm_medium=banner">
-			<b>Applying to jobs?</b>
+			<b>Get more job hunting resources?</b>
 			<br>
-			Autofill all your applications in a single click.
+			Join our Discord Community in a single click.
 			<br>
 			<div>
 				<a href="https://discord.gg/YURMHY9JNt">

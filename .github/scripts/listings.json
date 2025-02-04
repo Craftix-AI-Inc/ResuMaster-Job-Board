@@ -24365,5 +24365,21 @@
         "date_posted": 1738700107,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1738705125,
+        "url": "https://Linkedin.com",
+        "company_name": "Company_test_1",
+        "title": "SDE",
+        "locations": [
+            "SF"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "ERICQA0201",
+        "id": "099525cd-dbc2-432c-b451-207cd480b7ef",
+        "date_posted": 1738705125,
+        "company_url": "",
+        "is_visible": true
     }
 ]

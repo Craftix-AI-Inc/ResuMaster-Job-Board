@@ -24383,7 +24383,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1738706648,
+        "date_updated": 1738706734,
         "url": "https://Google.ss.com",
         "company_name": "Meta-test-0204-modified",
         "title": "SDE",
@@ -24391,7 +24391,7 @@
             "Beijing"
         ],
         "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
+        "active": false,
         "source": "ERICQA0201",
         "id": "704d5183-284a-41c5-9a33-0410ebca7ff3",
         "date_posted": 1738705290,

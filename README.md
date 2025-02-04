@@ -4,7 +4,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 
 :warning: Please note that this repository is exclusively for roles in the United States, Canada, or Remote positions :earth_americas:
 
-🙏 **Contribute by submitting an [issue](https://github.com/Craftix-AI-Inc/ResuMaster-Job-Board/issues/new/choose)! See the contribution guidelines [here](./CONTRIBUTING.md)!** 🙏
+🙏 **Contribute by submitting an [issue](https://github.com/Craftix-AI-Inc/New-Grad-Positions-2025/issues/new/choose)! See the contribution guidelines [here](./CONTRIBUTING.md)!** 🙏
 
 > **Exciting Updates to this Job Board! 🥳**
 >
@@ -54,7 +54,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
  - 🇺🇸 - Requires U.S. Citizenship
  - 🔒 - Job application is closed
 
-[⬇️ Jump to bottom ⬇️](https://github.com/Craftix-AI-Inc/ResuMaster-Job-Board#we-love-our-contributors-%EF%B8%8F%EF%B8%8F)
+[⬇️ Jump to bottom ⬇️](https://github.com/Craftix-AI-Inc/New-Grad-Positions-2025#we-love-our-contributors-%EF%B8%8F%EF%B8%8F)
 <!-- Please leave a one line gap between this and the table TABLE_START (DO NOT CHANGE THIS LINE) -->
 
 | Company | Role | Location | Application/Link | Date Posted |
@@ -615,8 +615,8 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 | **WeRide** | Software Engineer – New Grads 2024 - Perception | San Jose, CA | 🔒 | May 01 |
 
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
-[⬆️ Back to Top ⬆️](https://github.com/Craftix-AI-Inc/ResuMaster-Job-Board#the-list-)
+[⬆️ Back to Top ⬆️](https://github.com/Craftix-AI-Inc/New-Grad-Positions-2025#the-list-)
 
 ## We love our contributors ❤️❤️
 
-Contribute by submitting an [issue](https://github.com/Craftix-AI-Inc/ResuMaster-Job-Board/issues/new/choose)!
+Contribute by submitting an [issue](https://github.com/Craftix-AI-Inc/New-Grad-Positions-2025/issues/new/choose)!

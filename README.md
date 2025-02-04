@@ -1,20 +1,17 @@
 # 2025 New Grad Positions by ResuMaster
 
-Use this repo to share and keep track of entry-level software, tech, CS, PM, quant jobs for 2024 & 2025 new graduates.
+Use this repo to share and keep track of entry-level software, tech, CS, PM, quant jobs for 2025 new graduates.
 
 :warning: Please note that this repository is exclusively for roles in the United States, Canada, or Remote positions :earth_americas:
 
 🙏 **Contribute by submitting an [issue](https://github.com/Craftix-AI-Inc/ResuMaster-Job-Board/issues/new/choose)! See the contribution guidelines [here](./CONTRIBUTING.md)!** 🙏
 
-> **Exciting Updates to this Repo! 🥳**
+> **Exciting Updates to this Job Board! 🥳**
 >
-> You might have noticed that the repo looks a little different 👀.
 >
-> Coder Quad has teamed up with Simplify to maintain this repo, and we've made some exciting new changes!
->
-> - ⬆️ More Jobs! - A script automatically updates this repo with new jobs on Simplify.
 > - ✏️ Easier Contributions! - Submit an issue to add/edit a job. See [guidelines](./CONTRIBUTING.md).
-> - ✨ New Apply Options! - gray button is standard posting, blue is Simplify's one-click application.
+> - :gear: This list is maintained by [ResuMaster](https://resumaster.ai/)!
+> - :heart: This Job Board Template is inspired by Simplify Repo.
 ---
 <div align="center">
 	<h3>😮‍💨 Tired of Struggling with Low Interview and Offer Rates? 😩</h3>

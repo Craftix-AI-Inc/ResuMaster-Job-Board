@@ -54,7 +54,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
  - 🇺🇸 - Requires U.S. Citizenship
  - 🔒 - Job application is closed
 
-[⬇️ Jump to bottom ⬇️](https://github.com/SimplifyJobs/New-Grad-Positions#we-love-our-contributors-%EF%B8%8F%EF%B8%8F)
+[⬇️ Jump to bottom ⬇️](https://github.com/Craftix-AI-Inc/ResuMaster-Job-Board#we-love-our-contributors-%EF%B8%8F%EF%B8%8F)
 <!-- Please leave a one line gap between this and the table TABLE_START (DO NOT CHANGE THIS LINE) -->
 
 | Company | Role | Location | Application/Link | Date Posted |
@@ -110,4 +110,8 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 | **Expedia Group** | Data Engineer I | Seattle, WA | 🔒 | Jan 03 |
 
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
-[⬆️ Back to Top ⬆️](https://github.com/SimplifyJobs/New-Grad-Positions#the-list-)
+[⬆️ Back to Top ⬆️](https://github.com/Craftix-AI-Inc/ResuMaster-Job-Board#the-list-)
+
+## We love our contributors ❤️❤️
+
+Contribute by submitting an [issue](https://github.com/Craftix-AI-Inc/ResuMaster-Job-Board/issues/new/choose)!

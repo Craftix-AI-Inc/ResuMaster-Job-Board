@@ -24397,5 +24397,21 @@
         "date_posted": 1738705290,
         "company_url": "",
         "is_visible": false
+    },
+    {
+        "date_updated": 1738707842,
+        "url": "https://test-02-04.com",
+        "company_name": "TEST-02-04-NEW",
+        "title": "TEST-02-04-NEW",
+        "locations": [
+            "TEST-02-04-NEW"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "ERICQA0201",
+        "id": "0d7b627a-519e-43ab-b3c4-4cabcf2a72aa",
+        "date_posted": 1738707842,
+        "company_url": "",
+        "is_visible": true
     }
 ]

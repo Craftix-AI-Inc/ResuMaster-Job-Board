@@ -24349,5 +24349,21 @@
         "date_posted": 1738650431,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1738700107,
+        "url": "https://SDE-TEST",
+        "company_name": "AWS",
+        "title": "SDE",
+        "locations": [
+            "Chicago"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "ERICQA0201",
+        "id": "663eabc9-e550-483f-846a-400eda360ce1",
+        "date_posted": 1738700107,
+        "company_url": "",
+        "is_visible": true
     }
 ]

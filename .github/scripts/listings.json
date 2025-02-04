@@ -24381,5 +24381,21 @@
         "date_posted": 1738705125,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1738705290,
+        "url": "https://Google.ss.com",
+        "company_name": "company_test_02",
+        "title": "SDE",
+        "locations": [
+            "SF"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "ERICQA0201",
+        "id": "704d5183-284a-41c5-9a33-0410ebca7ff3",
+        "date_posted": 1738705290,
+        "company_url": "",
+        "is_visible": true
     }
 ]

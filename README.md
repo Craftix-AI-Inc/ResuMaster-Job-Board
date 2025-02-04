@@ -42,7 +42,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
         </a>
 			</div>
 		</a>
-		<sub><i>Stop manually re-entering your information. Simplify’s extension helps you autofill job applications on millions of sites.</i></sub>
+		<sub><i>⚡ Stop wasting hours on resumes — ResuMaster tailors your perfect application in 60 seconds! 🚀</i></sub>
 	</p>
 </div>
 

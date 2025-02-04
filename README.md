@@ -1,4 +1,4 @@
-# 2025 New Grad Positions by ttt
+# 2025 New Grad Positions by ResuMaster
 
 Use this repo to share and keep track of entry-level software, tech, CS, PM, quant jobs for 2024 & 2025 new graduates.
 

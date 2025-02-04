@@ -24383,14 +24383,14 @@
         "is_visible": true
     },
     {
-        "date_updated": 1738705290,
+        "date_updated": 1738706094,
         "url": "https://Google.ss.com",
-        "company_name": "company_test_02",
+        "company_name": "Meta-test-0204",
         "title": "SDE",
         "locations": [
-            "SF"
+            "Beijing"
         ],
-        "sponsorship": "Offers Sponsorship",
+        "sponsorship": "Other",
         "active": true,
         "source": "ERICQA0201",
         "id": "704d5183-284a-41c5-9a33-0410ebca7ff3",

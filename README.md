@@ -59,7 +59,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
-| **company_test_02** | SDE | SF | <a href="https://Google.ss.com?utm_source=ResuMaster&ref=ResuMaster"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Feb 04 |
+| **Meta-test-0204** | SDE | Beijing | <a href="https://Google.ss.com?utm_source=ResuMaster&ref=ResuMaster"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Feb 04 |
 | **Company_test_1** | SDE | SF | <a href="https://Linkedin.com?utm_source=ResuMaster&ref=ResuMaster"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Feb 04 |
 | **AWS** | SDE | Chicago | <a href="https://SDE-TEST?utm_source=ResuMaster&ref=ResuMaster"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Feb 04 |
 | **SDE-Test** | TESTdf | TESTss | <a href="https://google.com?utm_source=ResuMaster&ref=ResuMaster"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Feb 04 |

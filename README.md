@@ -4,7 +4,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 
 :warning: Please note that this repository is exclusively for roles in the United States, Canada, or Remote positions :earth_americas:
 
-🙏 **Contribute by submitting an [issue](https://github.com/Craftix-AI-Inc/job-board-test/issues/new/choose)! See the contribution guidelines [here](./CONTRIBUTING.md)!** 🙏
+🙏 **Contribute by submitting an [issue](https://github.com/Craftix-AI-Inc/ResuMaster-Job-Board/issues/new/choose)! See the contribution guidelines [here](./CONTRIBUTING.md)!** 🙏
 
 > **Exciting Updates to this Repo! 🥳**
 >

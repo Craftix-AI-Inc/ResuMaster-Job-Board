@@ -60,7 +60,7 @@ body:
   - type: dropdown
     id: active
     attributes:
-      label: Is this internship currently accepting applications?
+      label: Is this job currently accepting applications?
       multiple: false
       options:
         - "Yes"

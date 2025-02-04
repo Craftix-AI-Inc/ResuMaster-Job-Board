@@ -24383,7 +24383,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1738706734,
+        "date_updated": 1738707245,
         "url": "https://Google.ss.com",
         "company_name": "Meta-test-0204-modified",
         "title": "SDE",
@@ -24396,6 +24396,6 @@
         "id": "704d5183-284a-41c5-9a33-0410ebca7ff3",
         "date_posted": 1738705290,
         "company_url": "",
-        "is_visible": true
+        "is_visible": false
     }
 ]

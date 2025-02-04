@@ -20,15 +20,6 @@ jobs:
         with:
           python-version: "3.9"
 
-      - name: Check and create dev branch if needed
-        run: |
-          if git show-ref --quiet refs/remotes/origin/dev; then
-            git checkout dev
-            git pull origin dev
-          else
-            git checkout -b dev
-          fi
-
       - name: execute contribution_approved.py
         id: python_script
         env:

@@ -23,7 +23,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
           <img src="https://resumasterlogo.s3.us-east-2.amazonaws.com/ResuMaster_Buttons.png" width="400" alt="ResuMaster">
         </a>
 			</div>
-		<sub><i>Share any other cool projects you make using the repo, and we might give you a shoutout!</i></sub>
+		<sub><i>⚡ Stop wasting hours on resumes — ResuMaster tailors your perfect application in 60 seconds! 🚀</i></sub>
 	</p>
 </div>
 
@@ -42,7 +42,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
         </a>
 			</div>
 		</a>
-		<sub><i>⚡ Stop wasting hours on resumes — ResuMaster tailors your perfect application in 60 seconds! 🚀</i></sub>
+		<sub><i>Share any other cool projects you make using the repo, and we might give you a shoutout!</i></sub>
 	</p>
 </div>
 

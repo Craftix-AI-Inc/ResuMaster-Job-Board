@@ -31,7 +31,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 
 <div align="center">
 	<p>
-		<a href="https://simplify.jobs/?utm_source=GHList&utm_medium=banner">
+		<a href="https://discord.gg/YURMHY9JNt">
 			<b>Get more job hunting resources?</b>
 			<br>
 			Join our Discord Community in a single click.

@@ -835,5 +835,21 @@
         "date_posted": 1738707842,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1739222509,
+        "url": "https://test-02/10",
+        "company_name": "test-02/10",
+        "title": "test-02/10",
+        "locations": [
+            "test-02/10"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "ERICQA0201",
+        "id": "cb885e50-74ab-4f77-8202-a48bb2e81007",
+        "date_posted": 1739222509,
+        "company_url": "",
+        "is_visible": true
     }
 ]

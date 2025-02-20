@@ -59,6 +59,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
+| **Apple** | Software Engineer - TV App for Android Mobile Devices | San Diego, CA | <a href="https://jobs.apple.com/en-us/details/200559181/software-engineer-tv-app-for-android-mobile-devices?team=SFTWR&utm_source=ResuMaster&ref=ResuMaster"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Feb 20 |
 | **Apple** | Wireless Charging Firmware Engineer | Cupertino, CA | <a href="https://jobs.apple.com/en-us/details/200591889/wireless-charging-firmware-engineer?team=SFTWR&utm_source=ResuMaster&ref=ResuMaster"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Feb 20 |
 | **Apple** | Applied Networking Frameworks Engineer | San Diego, CA | <a href="https://jobs.apple.com/en-us/details/200578360/applied-networking-frameworks-engineer?team=SFTWR&utm_source=ResuMaster&ref=ResuMaster"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Feb 20 |
 | **Apple** | SoC Design/Integration & Synthesis Engineer | Cupertino, CA | <a href="https://jobs.apple.com/en-us/details/200591811/embedded-software-engineer?team=HRDWR&utm_source=ResuMaster&ref=ResuMaster"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Feb 20 |

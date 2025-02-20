@@ -94,5 +94,21 @@
         "date_posted": 1740086870,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1740086889,
+        "url": "https://jobs.apple.com/en-us/details/200559181/software-engineer-tv-app-for-android-mobile-devices?team=SFTWR",
+        "company_name": "Apple",
+        "title": "Software Engineer - TV App for Android Mobile Devices",
+        "locations": [
+            "San Diego, CA"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "ERICQA0201",
+        "id": "8692847e-650c-4fcf-b837-6260e44ab10c",
+        "date_posted": 1740086889,
+        "company_url": "",
+        "is_visible": true
     }
 ]

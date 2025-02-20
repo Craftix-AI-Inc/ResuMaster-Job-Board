@@ -110,5 +110,21 @@
         "date_posted": 1740086889,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1740086917,
+        "url": "https://www.workatastartup.com/jobs/73148",
+        "company_name": "Duckie - YC",
+        "title": "Software Engineer (Applied AI) at Duckie (W24)",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "ERICQA0201",
+        "id": "00c5e9f7-1c28-4a0f-9d9a-c3035dce3d40",
+        "date_posted": 1740086917,
+        "company_url": "",
+        "is_visible": true
     }
 ]

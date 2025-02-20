@@ -14,5 +14,21 @@
         "date_posted": 1740079641,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1740079718,
+        "url": "https://job-boards.greenhouse.io/thetradedesk/jobs/4655435007",
+        "company_name": "The Trade Desk",
+        "title": "Software Engineer I - 2025 Start",
+        "locations": [
+            "SF"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "ERICQA0201",
+        "id": "20f943f2-73de-4de3-9540-e3190d823eb4",
+        "date_posted": 1740079718,
+        "company_url": "",
+        "is_visible": true
     }
 ]

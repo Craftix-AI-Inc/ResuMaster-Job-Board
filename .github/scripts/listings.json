@@ -78,5 +78,21 @@
         "date_posted": 1740086851,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1740086870,
+        "url": "https://jobs.apple.com/en-us/details/200591889/wireless-charging-firmware-engineer?team=SFTWR",
+        "company_name": "Apple",
+        "title": "Wireless Charging Firmware Engineer",
+        "locations": [
+            "Cupertino, CA"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "ERICQA0201",
+        "id": "41b3312a-dfc8-41df-9aea-2b04ef743cb1",
+        "date_posted": 1740086870,
+        "company_url": "",
+        "is_visible": true
     }
 ]

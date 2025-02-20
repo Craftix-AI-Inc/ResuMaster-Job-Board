@@ -190,5 +190,21 @@
         "date_posted": 1740087090,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1740087121,
+        "url": "https://www.ycombinator.com/companies/solosuit/jobs/sT3t6VQ-software-engineer",
+        "company_name": "SoloSuit - YC",
+        "title": "Software Engineer",
+        "locations": [
+            "Remote US"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "ERICQA0201",
+        "id": "d40121d9-2426-4c92-9ba0-13e7ce8f753c",
+        "date_posted": 1740087121,
+        "company_url": "",
+        "is_visible": true
     }
 ]

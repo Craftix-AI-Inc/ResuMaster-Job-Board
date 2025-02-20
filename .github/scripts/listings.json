@@ -30,5 +30,21 @@
         "date_posted": 1740086740,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1740086756,
+        "url": "https://jobs.apple.com/en-us/details/200591842/soc-design-integration-synthesis-engineer?team=HRDWR",
+        "company_name": "Apple",
+        "title": "SoC Design/Integration & Synthesis Engineer",
+        "locations": [
+            "Cupertino, CA"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "ERICQA0201",
+        "id": "15782f80-0dc5-492d-9127-f7be83570293",
+        "date_posted": 1740086756,
+        "company_url": "",
+        "is_visible": true
     }
 ]

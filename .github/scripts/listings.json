@@ -126,5 +126,21 @@
         "date_posted": 1740086917,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1740086989,
+        "url": "https://careers.caterpillar.com/en/jobs/job/r0000292576-2025-cat-digital-early-career-software-engineer/",
+        "company_name": "Early Career Software Engineer",
+        "title": "2025 Cat Digital - Early Career Software Engineer",
+        "locations": [
+            "Chicago, IL Peoria, IL Irving, TX"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "ERICQA0201",
+        "id": "e9853078-c78b-4dbf-b9c3-2922d82013ec",
+        "date_posted": 1740086989,
+        "company_url": "",
+        "is_visible": true
     }
 ]

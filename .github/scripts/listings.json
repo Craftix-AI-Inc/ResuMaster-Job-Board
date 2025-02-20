@@ -142,5 +142,21 @@
         "date_posted": 1740086989,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1740087005,
+        "url": "https://careers.jacobs.com/en_US/careers/JobDetail/Software-Engineer/22934?Src=JB-10147",
+        "company_name": "Jacobs",
+        "title": "Software Engineer",
+        "locations": [
+            "Hudson, NH"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "ERICQA0201",
+        "id": "55401380-669d-4c0b-8493-5d42d352b016",
+        "date_posted": 1740087005,
+        "company_url": "",
+        "is_visible": true
     }
 ]

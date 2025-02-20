@@ -59,7 +59,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
-| **The Trade Desk** | Software Engineer I - 2025 Start | SF | <a href="https://job-boards.greenhouse.io/thetradedesk/jobs/4655435007?utm_source=ResuMaster&ref=ResuMaster"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Feb 20 |
+| **The Trade Desk** | Software Engineer I - 2025 Start | SF | <a href="https://job-boards.greenhouse.io/thetradedesk/jobs/4655435007?utm_source=ResuMaster&ref=ResuMaster"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Feb 18 |
 | **Caterpillar Inc.** | Early Career Data Scientist / Technical Analyst | Peoria, IL Chicago, IL | <a href="https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Chicago-Illinois/XMLNAME-2025-Cat-Digital---Early-Career-Data-Scientist---Technical-Analyst_R0000292585?utm_source=ResuMaster&ref=ResuMaster"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Feb 20 |
 
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

@@ -59,6 +59,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
+| **Sigma** | Software Engineer (New Grad Program) | San Francisco, CA New York City, NY | <a href="https://job-boards.greenhouse.io/sigmacomputing/jobs/6351817003?utm_source=ResuMaster&ref=ResuMaster"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Feb 20 |
 | **Jacobs** | Software Engineer | Hudson, NH | <a href="https://careers.jacobs.com/en_US/careers/JobDetail/Software-Engineer/22934?Src=JB-10147&utm_source=ResuMaster&ref=ResuMaster"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Feb 20 |
 | **Early Career Software Engineer** | 2025 Cat Digital - Early Career Software Engineer | Chicago, IL Peoria, IL Irving, TX | <a href="https://careers.caterpillar.com/en/jobs/job/r0000292576-2025-cat-digital-early-career-software-engineer/?utm_source=ResuMaster&ref=ResuMaster"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Feb 20 |
 | **Duckie - YC** | Software Engineer (Applied AI) at Duckie (W24) | San Francisco, CA | <a href="https://www.workatastartup.com/jobs/73148?utm_source=ResuMaster&ref=ResuMaster"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Feb 20 |

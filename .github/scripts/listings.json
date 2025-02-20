@@ -158,5 +158,21 @@
         "date_posted": 1740087005,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1740087035,
+        "url": "https://job-boards.greenhouse.io/sigmacomputing/jobs/6351817003",
+        "company_name": "Sigma",
+        "title": "Software Engineer (New Grad Program)",
+        "locations": [
+            "San Francisco, CA New York City, NY"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "ERICQA0201",
+        "id": "f8361a5a-ff84-4fec-aa60-7f6b217cfd1d",
+        "date_posted": 1740087035,
+        "company_url": "",
+        "is_visible": true
     }
 ]

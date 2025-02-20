@@ -62,5 +62,21 @@
         "date_posted": 1740086839,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1740086851,
+        "url": "https://jobs.apple.com/en-us/details/200578360/applied-networking-frameworks-engineer?team=SFTWR",
+        "company_name": "Apple",
+        "title": "Applied Networking Frameworks Engineer",
+        "locations": [
+            "San Diego, CA"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "ERICQA0201",
+        "id": "fe48e57a-1147-4064-8917-70e1decd02be",
+        "date_posted": 1740086851,
+        "company_url": "",
+        "is_visible": true
     }
 ]

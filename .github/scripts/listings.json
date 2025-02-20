@@ -174,5 +174,21 @@
         "date_posted": 1740087035,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1740087090,
+        "url": "https://www.workatastartup.com/jobs/73199",
+        "company_name": "Wanderlog - YC",
+        "title": "Full-Stack Software Engineer",
+        "locations": [
+            "San Francisco, CA Remote US"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "ERICQA0201",
+        "id": "ba607d75-dd8b-46d1-ae21-fa7e2bd4a33f",
+        "date_posted": 1740087090,
+        "company_url": "",
+        "is_visible": true
     }
 ]

@@ -222,21 +222,5 @@
         "date_posted": 1740087677,
         "company_url": "",
         "is_visible": true
-    },
-    {
-        "date_updated": 1740087677,
-        "url": "https://test",
-        "company_name": "test",
-        "title": "test role",
-        "locations": [
-            "San Francisco, CA"
-        ],
-        "sponsorship": "Offers Sponsorship",
-        "active": true,
-        "source": "ERICQA0201",
-        "id": "17b82202-d61f-4b93-9d12-cd7d58f60142",
-        "date_posted": 1740087677,
-        "company_url": "",
-        "is_visible": true
     }
 ]

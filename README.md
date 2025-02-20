@@ -59,6 +59,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
+| **The Trade Desk** | Software Engineer I - 2025 Start | San Francisco, CA | <a href="https://job-boards.greenhouse.io/thetradedesk/jobs/4655435007?utm_source=ResuMaster&ref=ResuMaster"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Feb 20 |
 | **SoloSuit - YC** | Software Engineer | Remote US | <a href="https://www.ycombinator.com/companies/solosuit/jobs/sT3t6VQ-software-engineer?utm_source=ResuMaster&ref=ResuMaster"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Feb 20 |
 | **Wanderlog - YC** | Full-Stack Software Engineer | San Francisco, CA Remote US | <a href="https://www.workatastartup.com/jobs/73199?utm_source=ResuMaster&ref=ResuMaster"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Feb 20 |
 | **Sigma** | Software Engineer (New Grad Program) | San Francisco, CA New York City, NY | <a href="https://job-boards.greenhouse.io/sigmacomputing/jobs/6351817003?utm_source=ResuMaster&ref=ResuMaster"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Feb 20 |

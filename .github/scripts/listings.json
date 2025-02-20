@@ -46,5 +46,21 @@
         "date_posted": 1740086756,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1740086839,
+        "url": "https://jobs.apple.com/en-us/details/200591811/embedded-software-engineer?team=HRDWR",
+        "company_name": "Apple",
+        "title": "SoC Design/Integration & Synthesis Engineer",
+        "locations": [
+            "Cupertino, CA"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "ERICQA0201",
+        "id": "5463116c-a4c8-455a-8a09-e6bb38f6e0d4",
+        "date_posted": 1740086839,
+        "company_url": "",
+        "is_visible": true
     }
 ]

@@ -14,5 +14,21 @@
         "date_posted": 1740086702,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1740086740,
+        "url": "https://boards.greenhouse.io/xai/jobs/4653845007",
+        "company_name": "xAI",
+        "title": "Software Engineer",
+        "locations": [
+            "Memphis, TN Palo Alto, CA"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "ERICQA0201",
+        "id": "b4031cb2-b5a3-46b4-837e-b96f5c0ea26f",
+        "date_posted": 1740086740,
+        "company_url": "",
+        "is_visible": true
     }
 ]

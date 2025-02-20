@@ -59,6 +59,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
+| **xAI** | Software Engineer | Memphis, TN Palo Alto, CA | <a href="https://boards.greenhouse.io/xai/jobs/4653845007?utm_source=ResuMaster&ref=ResuMaster"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Feb 20 |
 | **Vanta** | Software Engineer, Entry Level | Remote US | <a href="https://jobs.ashbyhq.com/vanta/13d263a6-ba81-4a93-87df-efda33a909bf?utm_source=ResuMaster&ref=ResuMaster"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Feb 20 |
 
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

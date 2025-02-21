@@ -222,5 +222,21 @@
         "date_posted": 1740087677,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1740173215,
+        "url": "https://job-boards.greenhouse.io/babelstreet/jobs/6646902",
+        "company_name": "Babel Street",
+        "title": "Software Engineer Co-op - Text Analytics",
+        "locations": [
+            "Somerville, Massachusetts, United States"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "ERICQA0201",
+        "id": "5f21c809-f358-4569-8fc0-344cc8777e7e",
+        "date_posted": 1740173215,
+        "company_url": "",
+        "is_visible": true
     }
 ]

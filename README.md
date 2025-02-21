@@ -21,7 +21,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 			✨ Check out ⬇️ This App ⬇️ and Boost Your Interview Rate by 300% ✨ 
 			<br>
 			<div>
-			<a href="https://resumaster.ai/?utm_source=GHList&utm_medium=banner">
+			<a href="https://www.resumaster.ai?utm_source=github&utm_medium=jobboard">
           <img src="https://resumasterlogo.s3.us-east-2.amazonaws.com/ResuMaster_Buttons.png" width="400" alt="ResuMaster">
         </a>
 			</div>

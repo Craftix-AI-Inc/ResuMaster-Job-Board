@@ -61,6 +61,8 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
+| **test02** | test02 | San Francisco, CA | <a href="https://test02?utm_source=ResuMaster&ref=ResuMaster"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Feb 20 |
+| **test01** | test01 | San Francisco, CA | <a href="https://test01?utm_source=ResuMaster&ref=ResuMaster"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Feb 20 |
 | **The Trade Desk** | Software Engineer I - 2025 Start | San Francisco, CA | <a href="https://job-boards.greenhouse.io/thetradedesk/jobs/4655435007?utm_source=ResuMaster&ref=ResuMaster"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Feb 20 |
 | **SoloSuit - YC** | Software Engineer | Remote US | <a href="https://www.ycombinator.com/companies/solosuit/jobs/sT3t6VQ-software-engineer?utm_source=ResuMaster&ref=ResuMaster"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Feb 20 |
 | **Wanderlog - YC** | Full-Stack Software Engineer | San Francisco, CA Remote US | <a href="https://www.workatastartup.com/jobs/73199?utm_source=ResuMaster&ref=ResuMaster"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Feb 20 |

@@ -238,5 +238,37 @@
         "date_posted": 1740173215,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1740173216,
+        "url": "https://boards.greenhouse.io/appliedintuition/jobs/4476066005",
+        "company_name": "Applied Intuition",
+        "title": "Software Integration Engineer - New Grad",
+        "locations": [
+            "Mountain View, CA, United States"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "ERICQA0201",
+        "id": "5f21c809-f358-4569-8fc0-344cc8777e7e",
+        "date_posted": 1740173216,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1740173217,
+        "url": "https://snc.wd1.myworkdayjobs.com/en-US/SNC_External_Career_Site/job/Lone-Tree-CO/Software-Engineer-I_R0026883",
+        "company_name": "Sierra Nevada Corporation",
+        "title": "Software Engineer I",
+        "locations": [
+            "Lone Tree, CO"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "ERICQA0201",
+        "id": "5f21c809-f358-4569-8fc0-344cc8777e7e",
+        "date_posted": 1740173217,
+        "company_url": "",
+        "is_visible": true
     }
 ]

@@ -2,6 +2,8 @@
 
 Use this repo to share and keep track of entry-level software, tech, CS, PM, quant jobs for 2025 new graduates.
 
+🌟 Exciting News: We're actively developing our job boards to cover fresh opportunities across different experience levels and fields. Stay tuned for updates!
+
 :warning: Please note that this repository is exclusively for roles in the United States, Canada, or Remote positions :earth_americas:
 
 🙏 **Contribute by submitting an [issue](https://github.com/Craftix-AI-Inc/New-Grad-Positions-2025/issues/new/choose)! See the contribution guidelines [here](./CONTRIBUTING.md)!** 🙏

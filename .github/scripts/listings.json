@@ -272,19 +272,19 @@
         "is_visible": true
     },
     {
-        "date_updated": 1740358508,
+        "date_updated": 1740358765,
         "url": "https://jobs.ashbyhq.com/pylon/69b335e7-0264-43ba-a3c3-f2dc8dfb1212/application",
         "company_name": "Pylon",
         "title": "Software Engineer \u2013 New Grad",
         "locations": [
             "Menlo Park, CA"
         ],
-        "sponsorship": "Offers Sponsorship",
+        "sponsorship": "Other",
         "active": true,
         "source": "ERICQA0201",
         "id": "07ad7fc6-933b-46df-a2a3-ccc26aebb64d",
         "date_posted": 1740358508,
         "company_url": "",
-        "is_visible": true
+        "is_visible": false
     }
 ]

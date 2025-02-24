@@ -275,7 +275,7 @@
         "date_updated": 1740358950,
         "url": "https://jobs.ashbyhq.com/pylon/69b335e7-0264-43ba-a3c3-f2dc8dfb1212/application",
         "company_name": "Pylon",
-        "title": "Software Engineer – New Grad",
+        "title": "Software Engineer \u2013 New Grad",
         "locations": [
             "Menlo Park, CA"
         ],
@@ -304,14 +304,14 @@
         "is_visible": true
     },
     {
-        "date_updated": 1740435081,
+        "date_updated": 1740435690,
         "url": "https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Austin-TX/Software-Engineer-I---Austin--TX_R202558269",
         "company_name": "Cox",
         "title": "Software Engineer I",
         "locations": [
             "Austin, TX"
         ],
-        "sponsorship": "Offers Sponsorship",
+        "sponsorship": "Does Not Offer Sponsorship",
         "active": true,
         "source": "ERICQA0201",
         "id": "5f21c809-f358-4569-8fc0-344cc8777e7e",
@@ -335,6 +335,4 @@
         "company_url": "",
         "is_visible": true
     }
-
-
 ]

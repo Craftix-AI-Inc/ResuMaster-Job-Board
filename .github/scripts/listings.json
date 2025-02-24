@@ -286,21 +286,5 @@
         "date_posted": 1740358950,
         "company_url": "",
         "is_visible": true
-    },
-    {
-        "date_updated": 1740359637,
-        "url": "https://www.thisisvisceral.com/job/ui-ux-designer/",
-        "company_name": "ABC",
-        "title": "UX Designer – New Grad",
-        "locations": [
-            "San Diego, CA"
-        ],
-        "sponsorship": "Offers Sponsorship",
-        "active": true,
-        "source": "ERICQA0201",
-        "id": "5f21c809-f358-4569-8fc0-344cc8777e7e",
-        "date_posted": 1740359637,
-        "company_url": "",
-        "is_visible": true
     }
 ]

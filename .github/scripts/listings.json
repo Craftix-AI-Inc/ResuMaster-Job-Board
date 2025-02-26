@@ -414,5 +414,21 @@
         "date_posted": 1740536236,
         "company_url": "",
         "is_visible": true
-    } 
+    },
+    {
+        "date_updated": 1740536236,
+        "url": "https://careers.qualcomm.com/careers/job/446703931834?hl=en-US&domain=qualcomm.com",
+        "company_name": "Qualcomm",
+        "title": "Software Engineer - Kernel Services",
+        "locations": [
+            "San Diego, CA"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "ERICQA0201",
+        "id": "5f21c809-f358-4569-8fc0-344cc8777e7e",
+        "date_posted": 1740536236,
+        "company_url": "",
+        "is_visible": true
+    }
 ]

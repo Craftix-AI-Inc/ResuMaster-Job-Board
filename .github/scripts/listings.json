@@ -8,7 +8,7 @@
             "Remote US"
         ],
         "sponsorship": "Offers Sponsorship",
-        "active": true,
+        "active": false,
         "source": "ERICQA0201",
         "id": "b9c7e156-a8f7-4995-a975-748560e1e479",
         "date_posted": 1740086702,
@@ -312,7 +312,7 @@
             "Austin, TX"
         ],
         "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
+        "active": false,
         "source": "ERICQA0201",
         "id": "5f21c809-f358-4569-8fc0-344cc8777e7e",
         "date_posted": 1740435081,

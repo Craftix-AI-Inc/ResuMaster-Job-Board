@@ -275,7 +275,7 @@
         "date_updated": 1740358950,
         "url": "https://jobs.ashbyhq.com/pylon/69b335e7-0264-43ba-a3c3-f2dc8dfb1212/application",
         "company_name": "Pylon",
-        "title": "Software Engineer – New Grad",
+        "title": "Software Engineer \u2013 New Grad",
         "locations": [
             "Menlo Park, CA"
         ],
@@ -288,82 +288,50 @@
         "is_visible": true
     },
     {
-        "date_updated": 1740536233,
-        "url": "https://woodmac.wd3.myworkdayjobs.com/woodmaccareers/job/Boston-US/Software-Engineer-I_JR1383-1",
-        "company_name": "Wood Mackenzie",
-        "title": "Software Engineer I",
+        "date_updated": 1740435081,
+        "url": "https://jobs.ashbyhq.com/secoda/ad9807e9-a9d3-4247-99d7-37f68995ecd3/application",
+        "company_name": "Secoda",
+        "title": "Software Engineer, New Grad",
         "locations": [
-            "Boston, MA"
+            "Toronto, ON, Canada"
         ],
         "sponsorship": "Offers Sponsorship",
         "active": true,
         "source": "ERICQA0201",
         "id": "5f21c809-f358-4569-8fc0-344cc8777e7e",
-        "date_posted": 1740536233,
+        "date_posted": 1740435081,
         "company_url": "",
         "is_visible": true
     },
     {
-        "date_updated": 1740536234,
-        "url": "https://onto.wd1.myworkdayjobs.com/onto_careers/job/Tucson-AZ/Software-Engineer-1_R-4313",
-        "company_name": "Onto Innovation",
-        "title": "Software Engineer 1",
-        "locations": [
-            "Tucson-AZ"
-        ],
-        "sponsorship": "Offers Sponsorship",
-        "active": true,
-        "source": "ERICQA0201",
-        "id": "5f21c809-f358-4569-8fc0-344cc8777e7e",
-        "date_posted": 1740536234,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "date_updated": 1740536234,
-        "url": "https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Springfield-Virginia/Junior-Software-Developer_R2098967",
-        "company_name": "KBR",
-        "title": "Junior Software Developer",
-        "locations": [
-            "Springfield, VA"
-        ],
-        "sponsorship": "Offers Sponsorship",
-        "active": true,
-        "source": "ERICQA0201",
-        "id": "5f21c809-f358-4569-8fc0-344cc8777e7e",
-        "date_posted": 1740536234,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "date_updated": 1740536235,
-        "url": "https://healthfirst.wd1.myworkdayjobs.com/healthfirst/job/Hybrid---NY/XMLNAME-2025-Technology-Early-Career-Development-Program---Full-Stack-Developer_R020017",
-        "company_name": "Healthfirst",
-        "title": "Technology Early Career Development Program - Full Stack Developer",
-        "locations": [
-            "Hybrid - NY"
-        ],
-        "sponsorship": "Offers Sponsorship",
-        "active": true,
-        "source": "ERICQA0201",
-        "id": "5f21c809-f358-4569-8fc0-344cc8777e7e",
-        "date_posted": 1740536235,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "date_updated": 1740536236,
-        "url": "https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Atlanta-GA/Software-Engineer-I_R202558007",
+        "date_updated": 1740435690,
+        "url": "https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Austin-TX/Software-Engineer-I---Austin--TX_R202558269",
         "company_name": "Cox",
         "title": "Software Engineer I",
         "locations": [
-            "Atlanta, GA"
+            "Austin, TX"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "source": "ERICQA0201",
+        "id": "5f21c809-f358-4569-8fc0-344cc8777e7e",
+        "date_posted": 1740435081,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1740435084,
+        "url": "https://usaa.wd1.myworkdayjobs.com/en-US/USAAJOBSWD/job/San-Antonio-Home-Office-I/Software-Engineer-Entry-Level_R0107289",
+        "company_name": "USAA",
+        "title": "Software Engineer Entry Level",
+        "locations": [
+            "San Antonio, TX"
         ],
         "sponsorship": "Offers Sponsorship",
         "active": true,
         "source": "ERICQA0201",
         "id": "5f21c809-f358-4569-8fc0-344cc8777e7e",
-        "date_posted": 1740536236,
+        "date_posted": 1740435084,
         "company_url": "",
         "is_visible": true
     }

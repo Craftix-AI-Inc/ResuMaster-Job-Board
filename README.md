@@ -61,6 +61,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
+| **Qualcomm** | Software Engineer - Kernel Services | San Diego, CA | <a href="https://careers.qualcomm.com/careers/job/446703931834?hl=en-US&domain=qualcomm.com&utm_source=ResuMaster&ref=ResuMaster"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Feb 26 |
 | **Cox** | Software Engineer I | Atlanta, GA | <a href="https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Atlanta-GA/Software-Engineer-I_R202558007?utm_source=ResuMaster&ref=ResuMaster"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Feb 26 |
 | **Healthfirst** | Technology Early Career Development Program - Full Stack Developer | Hybrid - NY | <a href="https://healthfirst.wd1.myworkdayjobs.com/healthfirst/job/Hybrid---NY/XMLNAME-2025-Technology-Early-Career-Development-Program---Full-Stack-Developer_R020017?utm_source=ResuMaster&ref=ResuMaster"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Feb 26 |
 | **Onto Innovation** | Software Engineer 1 | Tucson-AZ | <a href="https://onto.wd1.myworkdayjobs.com/onto_careers/job/Tucson-AZ/Software-Engineer-1_R-4313?utm_source=ResuMaster&ref=ResuMaster"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Feb 26 |

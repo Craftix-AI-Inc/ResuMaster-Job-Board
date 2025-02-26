@@ -286,5 +286,85 @@
         "date_posted": 1740358950,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1740536233,
+        "url": "https://woodmac.wd3.myworkdayjobs.com/woodmaccareers/job/Boston-US/Software-Engineer-I_JR1383-1",
+        "company_name": "Wood Mackenzie",
+        "title": "Software Engineer I",
+        "locations": [
+            "Boston, MA"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "ERICQA0201",
+        "id": "5f21c809-f358-4569-8fc0-344cc8777e7e",
+        "date_posted": 1740536233,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1740536234,
+        "url": "https://onto.wd1.myworkdayjobs.com/onto_careers/job/Tucson-AZ/Software-Engineer-1_R-4313",
+        "company_name": "Onto Innovation",
+        "title": "Software Engineer 1",
+        "locations": [
+            "Tucson-AZ"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "ERICQA0201",
+        "id": "5f21c809-f358-4569-8fc0-344cc8777e7e",
+        "date_posted": 1740536234,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1740536234,
+        "url": "https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Springfield-Virginia/Junior-Software-Developer_R2098967",
+        "company_name": "KBR",
+        "title": "Junior Software Developer",
+        "locations": [
+            "Springfield, VA"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "ERICQA0201",
+        "id": "5f21c809-f358-4569-8fc0-344cc8777e7e",
+        "date_posted": 1740536234,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1740536235,
+        "url": "https://healthfirst.wd1.myworkdayjobs.com/healthfirst/job/Hybrid---NY/XMLNAME-2025-Technology-Early-Career-Development-Program---Full-Stack-Developer_R020017",
+        "company_name": "Healthfirst",
+        "title": "Technology Early Career Development Program - Full Stack Developer",
+        "locations": [
+            "Hybrid - NY"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "ERICQA0201",
+        "id": "5f21c809-f358-4569-8fc0-344cc8777e7e",
+        "date_posted": 1740536235,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1740536236,
+        "url": "https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Atlanta-GA/Software-Engineer-I_R202558007",
+        "company_name": "Cox",
+        "title": "Software Engineer I",
+        "locations": [
+            "Atlanta, GA"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "ERICQA0201",
+        "id": "5f21c809-f358-4569-8fc0-344cc8777e7e",
+        "date_posted": 1740536236,
+        "company_url": "",
+        "is_visible": true
     }
 ]

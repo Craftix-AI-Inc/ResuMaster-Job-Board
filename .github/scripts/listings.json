@@ -430,5 +430,37 @@
         "date_posted": 1740536236,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1740628309,
+        "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Lehi/Software-Development-Engineer-1_R154031",
+        "company_name": "Adobe",
+        "title": "Software Development Engineer 1",
+        "locations": [
+            "Lehi, UT"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "ERICQA0201",
+        "id": "5f21c809-f358-4569-8fc0-344cc8777e7e",
+        "date_posted": 1740628309,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1740628309,
+        "url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Atlanta/WaveLogic-Software-Developer---New-Grad_R027194",
+        "company_name": "Ciena",
+        "title": "WaveLogic Software Developer - New Grad",
+        "locations": [
+            "Atlanta, GA"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "ERICQA0201",
+        "id": "5f21c809-f358-4569-8fc0-344cc8777e7e",
+        "date_posted": 1740628309,
+        "company_url": "",
+        "is_visible": true
     }
 ]

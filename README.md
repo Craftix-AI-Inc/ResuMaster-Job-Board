@@ -18,7 +18,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <div align="center">
 	<h3>😮‍💨 Tired of Struggling with Low Interview and Offer Rates? 😩</h3>
 	<p>
-			✨ Check out ⬇️ This App ⬇️ and Boost Your Interview Rate by 300% ✨ 
+			✨ Check out ⬇️ This App ⬇️ and Boost Your Interview Rate by 200% ✨ 
 			<br>
 			<div>
 			<a href="https://www.resumaster.ai?utm_source=github&utm_medium=jobboard">

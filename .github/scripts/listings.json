@@ -408,7 +408,7 @@
             "Atlanta, GA"
         ],
         "sponsorship": "Offers Sponsorship",
-        "active": true,
+        "active": false,
         "source": "ERICQA0201",
         "id": "5f21c809-f358-4569-8fc0-344cc8777e7e",
         "date_posted": 1740536236,
@@ -460,6 +460,70 @@
         "source": "ERICQA0201",
         "id": "5f21c809-f358-4569-8fc0-344cc8777e7e",
         "date_posted": 1740628309,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1740779341,
+        "url": "https://ebay.wd5.myworkdayjobs.com/en-US/apply/job/New-York-City/Software-Engineer-1_R0066254",
+        "company_name": "eBay",
+        "title": "Software Engineer 1",
+        "locations": [
+            "NYC, NY"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "ERICQA0201",
+        "id": "5f21c809-f358-4569-8fc0-344cc8777e7e",
+        "date_posted": 1740779341,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1740779342,
+        "url": "https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Atlanta-GA/Software-Engineer-I_R202559167",
+        "company_name": "cox",
+        "title": "Software Engineer I",
+        "locations": [
+            "Atlanta, GA"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "ERICQA0201",
+        "id": "5f21c809-f358-4569-8fc0-344cc8777e7e",
+        "date_posted": 1740779342,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1740779342,
+        "url": "https://jobs.apple.com/en-us/details/200593209/ios-software-engineer-is-t-early-career",
+        "company_name": "Apple",
+        "title": "iOS Software Engineer, IS&T (Early Career)",
+        "locations": [
+            "Austin, TX"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "ERICQA0201",
+        "id": "5f21c809-f358-4569-8fc0-344cc8777e7e",
+        "date_posted": 1740779342,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1740779342,
+        "url": "https://jobs.apple.com/en-us/details/200592987/software-development-engineer-in-test-retail-engineering-early-career",
+        "company_name": "Apple",
+        "title": "Software Development Engineer in Test, Retail Engineering, Early Career",
+        "locations": [
+            "Hybird"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "ERICQA0201",
+        "id": "5f21c809-f358-4569-8fc0-344cc8777e7e",
+        "date_posted": 1740779342,
         "company_url": "",
         "is_visible": true
     }
